@@ -2,7 +2,7 @@ import React from 'react'
 import {Switch, useLocation, Route } from 'react-router-dom'
 import { TransitionGroup, CSSTransition} from 'react-transition-group'
 
-import "./Styles/animation.css"
+import "../src/Styles/animation.css"
 
 import Home from '../src/components/pages/Home'
 import About from '../src/components/pages/About'
