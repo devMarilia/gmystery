@@ -1,3 +1,15 @@
+### Instalar dependências de Fonts e icons
+
+yarn add @fortawesome/fontawesome-svg-core
+yarn add @fortawesome/free-solid-svg-icons
+yarn add @fortawesome/react-fontawesome
+yarn add react-icons
+
+yarn add history-router
+yarn add react-native-reanimated react-native-gesture-handler react-native-screens react-native-safe-area-context @react-native-community/masked-view
+yar add react-transition-group
+
+
 Para iniciar o projeto [Create React App](https://github.com/facebook/create-react-app).
 
 In the project directory, you can run:
