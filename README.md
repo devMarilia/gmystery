@@ -2,7 +2,7 @@
 
 ## Projeto Girls Mystery <br/><br/>
 
-<img src="../gmystery/public/telainicial.png"> <br/> <br/>
+<img src="../gmystery/public/telainicial.png"> <br/>
 
 
 
