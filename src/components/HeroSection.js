@@ -1,6 +1,6 @@
 import React from 'react';
 import '../App.css';
-//import { Button } from './Button';
+import { Button } from './Button';
 import '../components/HeroSection.css';
 
 function HeroSection() {
@@ -10,21 +10,21 @@ function HeroSection() {
       <h1>Mulheres no Produto</h1>
       <p>Conheça nossos serviços!</p>
       <div className='hero-btns'>
-        {/* <Button
+        <Button
           className='btns'
           buttonStyle='btn--outline'
           buttonSize='btn--large'
         >
           INICIAR
-        /*</Button>*/}
-         {/* <Button
+        </Button>
+        {/*<Button
           className='btns'
           buttonStyle='btn--primary'
           buttonSize='btn--large'
           onClick={console.log('hey')}
         > 
-          WATCH TRAILER <i className='far fa-play-circle' /> 
-        </Button>  */}
+          Veja Mais <i className='far fa-play-circle' /> 
+        </Button> */}
       </div>
     </div>
   );
