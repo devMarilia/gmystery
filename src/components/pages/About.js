@@ -1,9 +1,19 @@
 import React from 'react';
+import '../../App.css';
+import TextItem from '../TextItem'
+import Footer from '../Footer'
 
-export default function About() {
- return (
-   <div>
-       About
-   </div>
- );
+
+
+
+
+function About() {
+  return (
+    <>
+      <TextItem />
+      <Footer/>
+    </>
+  );
 }
+
+export default About;
