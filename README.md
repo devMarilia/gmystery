@@ -8,7 +8,7 @@
  que se conheceram em fevereiro de 2020 em um curso de desenvolvimento de aplicativos Android, 
  dado por uma das empresas de maior reconhecimento atual.<br>
  Na Av Paulista, elas se encontravam, duas vezes na semana, para aprender, e consequentemente, acabaram tendo uma afinidade criada nos sofás da Estação Hack.<br>
- E para aprimorar seus estudos decidiram criar a Mystery!<br><br>
+ E para aprimorar seus estudos decidiram criar a Mystery!<br>
 
 
  <h3>O projeto GMystery</h1>
