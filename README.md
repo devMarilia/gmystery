@@ -2,7 +2,7 @@
 
 ## Projeto Girls Mystery <br/><br/>
 
-<img src="../gmystery/public/images/tela001.jpeg"> <br/>
+<img src="../gmystery/public/images/tela001.jpeg"><br/>
 
  A Mystery surgiu na mente de duas programadoras com filosofias bem parecidas,
  que se conheceram em fevereiro de 2020 em um curso de desenvolvimento de aplicativos Android, 
