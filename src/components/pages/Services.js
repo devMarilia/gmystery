@@ -1,9 +1,15 @@
-import React from 'react';
+import React from 'react'
+import '../../App.css';
+import ProductServices from '../ProductServices'
+import Footer from '../Footer'
 
-export default function Services() {
- return (
-   <div>
-       Services
-   </div>
- );
+function Services() {
+    return (
+        <>
+            <ProductServices/>
+            <Footer/>
+        </>
+    )
 }
+
+export default Services
