@@ -48,4 +48,8 @@ h2 {
     max-width: 800px;
     margin: 10px;
 }
-  
+@media (max-width: 1024px) {
+    .container{display: block;}
+    .content{display: inline;}
+    .content > img{display: none;}
+  }

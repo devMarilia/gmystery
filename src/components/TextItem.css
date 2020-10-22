@@ -53,3 +53,8 @@ h2 {
     font-size: 30px;
     margin: 30px;
 }
+@media (max-width: 1024px) {
+    .container{display: block;}
+    .content{display: inline;}
+    .content > h2{display: block;}
+  }
